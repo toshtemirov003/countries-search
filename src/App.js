@@ -54,7 +54,7 @@ function App() {
             defaultValue="default"
             className="search__select"
           >
-            <option defaultValue="default" selected disabled>Filter By Region</option>
+            <option defaultValue="default" disabled>Filter By Region</option>
             <option defaultValue="Africa">Africa</option>
             <option defaultValue="America">America</option>
             <option defaultValue="Asia">Asia</option>
